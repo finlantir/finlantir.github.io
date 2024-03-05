@@ -20,7 +20,7 @@ author: Finlantir
 ###############################################
 
 navbar-links:
-  Resources:
+  Board:
     - Investing: "https://info.cern.ch/hypertext/WWW/TheProject.html"
     - Technology: "https://info.cern.ch/hypertext/WWW/TheProject.html"
     - Trend in Economics: "https://info.cern.ch/hypertext/WWW/TheProject.html"
