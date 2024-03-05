@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: obsessed with tech and stock market
+subtitle: obsessed with tech and investment
 ---
 
 Hello! 
