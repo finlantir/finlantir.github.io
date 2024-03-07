@@ -21,9 +21,9 @@ author: Finlantir
 
 navbar-links:
   Board:
-    - Investing: "/stocks/404.html"
-    - Technology: "/stocks/404.html"
-    - Trend in Economics: "/stocks/404.html"
+    - Investing: "/404.html"
+    - Technology: "/404.html"
+    - Trend in Economics: "/404.html"
   About Me: "aboutme"
 
 ################
