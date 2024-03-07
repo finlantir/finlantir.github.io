@@ -21,9 +21,9 @@ author: Finlantir
 
 navbar-links:
   Board:
-    - Investing: "https://info.cern.ch/hypertext/WWW/TheProject.html"
-    - Technology: "https://info.cern.ch/hypertext/WWW/TheProject.html"
-    - Trend in Economics: "https://info.cern.ch/hypertext/WWW/TheProject.html"
+    - Investing: "/stocks/404.html"
+    - Technology: "/stocks/404.html"
+    - Trend in Economics: "/stocks/404.html"
   About Me: "aboutme"
 
 ################
