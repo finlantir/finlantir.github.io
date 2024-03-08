@@ -5,6 +5,7 @@ subtitle: Tech
 tags: [test]
 comments: true
 author: Finlantir
+categories: [investing]
 ---
 
 # What is NASDAQ?
