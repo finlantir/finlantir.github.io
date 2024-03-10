@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vertiv Holdings Co
-subtitle: leader in digital infrastructure technology
+subtitle: Semiconductor Leader in Chip Design
 tags: [investing, stock, Vertiv, VRT]
 comments: true
 author: finlantir
