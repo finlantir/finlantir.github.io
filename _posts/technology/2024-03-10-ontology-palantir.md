@@ -8,6 +8,7 @@ author: finlantir
 categories: [technology]
 ---
 
+
 # What is Ontology
 - Definition : philosophical study of being, investigating the types of entities, categories, and their fundamental interrelations.
 - Categories : Include substances, properties, relations, states of affairs, and events.
@@ -24,6 +25,7 @@ In the realm of information science, ontology intersects with metaphysics, epist
 
 ## Ontology in Artificial Intelligence
 In artificial intelligence (AI), ontology plays a crucial role as a specification mechanism for representing knowledge. AI systems use ontologies to define a set of representational terms that describe the universe of discourse within a domain. These definitions associate names with entities and include formal axioms that constrain the interpretation and use of these terms. Ontological commitments in AI are agreements to use shared vocabulary consistently among agents for effective communication and knowledge sharing. In conclusion, ontology serves as a foundational discipline that explores the essence of existence across various domains from philosophy to information science and artificial intelligence.
+
 
 # How are ontologies used in information science
 ## Utilizaion of Ontologies in Information Science
