@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ontology
-subtitle: There's lots to learn!
+subtitle: Conceptual information organization
 tags: [technology]
 comments: true
 author: finlantir
