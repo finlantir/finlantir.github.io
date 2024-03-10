@@ -9,9 +9,9 @@ categories: [technology]
 ---
 
 # Summary of Ontology
--Definition : philosophical study of being, investigating the types of entities, categories, and their fundamental interrelations.
--Categories : Include substances, properties, relations, states of affairs, and events.
--Ontological Theories : Can be monocategorical, polycategorical, hierarchical, or flat based on theoretical commitments.
+- Definition : philosophical study of being, investigating the types of entities, categories, and their fundamental interrelations.
+- Categories : Include substances, properties, relations, states of affairs, and events.
+- Ontological Theories : Can be monocategorical, polycategorical, hierarchical, or flat based on theoretical commitments.
 
 ## Ontology: A Philosophical Study of Being
 Ontology, as defined in philosophy, is the study of being in general, exploring the fundamental nature of existence and the relationships between entities. It delves into what types of entities exist, how they are categorized, and how they relate to each other at the most fundamental level. This branch of philosophy investigates various categories like substances, properties, relations, states of affairs, and events, each characterized by essential ontological concepts such as particularity and universality, abstractness and concreteness, or possibility and necessity.
