@@ -6,6 +6,9 @@ tags: [technology]
 comments: true
 author: finlantir
 categories: [technology]
+share-title:
+share-description:
+share-img:
 ---
 
 
