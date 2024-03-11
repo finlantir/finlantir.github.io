@@ -167,22 +167,23 @@
   {% endif %}
   -->
   {% assign favicon_path = "/assets/favicon/" %}
-  <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/manifest.json">
+
+  {% assign favicon_sizes = [
+    "57x57", "60x60", "72x72", "76x76", "114x114",
+    "120x120", "144x144", "152x152", "180x180", 
+    "192x192", "32x32", "96x96", "16x16"
+  ] %}
+
+  {% for size in favicon_sizes %}
+    {% assign favicon_exists = site.static_files | where: "path", favicon_path | append: "favicon-" | append: size | append: ".png" | relative_url | size %}
+    {% if favicon_exists == 1 %}
+      <link rel="icon" type="image/png" sizes="{{ size }}" href="{{ favicon_path }}favicon-{{ size }}.png" />
+    {% endif %}
+  {% endfor %}
+
+  <link rel="manifest" href="{{ favicon_path }}manifest.json">
   <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="msapplication-TileImage" content="{{ favicon_path }}ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
   {% if page.head-extra %}
