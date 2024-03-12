@@ -2,7 +2,7 @@
 layout: post
 title: ANET - Arista Networks Inc
 subtitle: Innovative, Scalable, Reliable Networking Solutions
-tags: [data center]
+tags: [Data Center]
 comments: true
 author: finlantir
 categories: [investing]

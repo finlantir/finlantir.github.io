@@ -2,7 +2,7 @@
 layout: post
 title: DELL - Dell Technologies Inc
 subtitle: Evolution from personal computer to data infrastructure solution
-tags: [data center]
+tags: [Data Center]
 comments: true
 author: finlantir
 categories: [investing]
