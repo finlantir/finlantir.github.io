@@ -1,4 +1,4 @@
 User-agent: *
 allow: /
 
-Sitemap: https://finlantir.github.io/stock/sitemap.xml
+Sitemap: https://finlantir.github.io/sitemap.xml
