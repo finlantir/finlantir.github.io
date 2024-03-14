@@ -2,7 +2,7 @@
 layout: post
 title: PLRT - Palantir Technologies Inc
 subtitle: Data management and analytics for AI era
-tags: [, ]
+tags: [software]
 comments: true
 author: finlantir
 categories: [investing]
