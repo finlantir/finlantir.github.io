@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STRL - Sterling Infrastructure Inc
-subtitle: Importance of HVAC systems in a data center
+subtitle: specialized in large-scale site development services
 tags: [data center, infrastructure]
 comments: true
 author: finlantir
