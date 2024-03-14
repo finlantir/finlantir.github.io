@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MPWR - Monolithic Power Systems
-subtitle: Innovative, Scalable, Reliable Networking Solutions
+subtitle: specialized semiconductor in energy efficienct power
 tags: [semiconductor, electric power]
 comments: true
 author: finlantir
