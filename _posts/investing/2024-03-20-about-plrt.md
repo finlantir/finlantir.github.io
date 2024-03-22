@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CRM - Salesforce Inc
+title: PLRT - Palantir Technologies
 subtitle: Data management and analytics for AI era
 tags: [software]
 comments: true
