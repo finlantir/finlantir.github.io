@@ -30,4 +30,4 @@ In summary, HBM's key advantages include higher bandwidth, lower power consumpti
 The disadvantages of HBM (High Bandwidth Memory) compared to DRAM (Dynamic Random-Access Memory) include:
 1. Cost: HBM is more expensive than traditional DRAM technologies, making it less accessible and cost-effective for widespread adoption in consumer devices.
 2. Limited Availability: HBM is not as widely available on graphics cards compared to traditional DRAM, which can limit its integration into various computing systems and devices.
-In summary, while HBM offers significant advantages in terms of performance, power efficiency, and capacity, its drawbacks include higher costs and limited availability compared to traditional DRAM technologies like DDR4 or GDDR5.
+In summary, while HBM offers significant advantages in terms of performance, power efficiency, and capacity, its drawbacks include higher costs and limited availability compared to traditional DRAM technologies like DDR4 or GDDR5. 
