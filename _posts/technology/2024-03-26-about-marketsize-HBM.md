@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Market size, growth rate, players of HBM
+title: HBM - Market size, growth rate, players
 subtitle: annual growth rate (CAGR) of 25.86% during the forecast period
 tags: [technology, semiconductor]
 comments: true
