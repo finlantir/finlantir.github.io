@@ -24,6 +24,7 @@ navbar-links:
     - Investing: "/investing"
     - Technology: "/technology"
     - Trend in Economics: "/economics"
+    - Category: "/tags"
   About Me: "aboutme"
 
 ################
@@ -104,7 +105,7 @@ url-pretty: "HOME"
 title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 30
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -124,7 +125,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "stock,invest,nasdaq,palantir,technology,clowd stock"
+keywords: "stock,invest,nasdaq,semiconductor,data center"
 
 ######################################
 # --- Colours / background image --- #
@@ -256,11 +257,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 10
+paginate: 15
 
 kramdown:
   input: GFM
@@ -295,6 +296,3 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
