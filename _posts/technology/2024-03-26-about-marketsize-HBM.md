@@ -28,4 +28,4 @@ The largest players in the High Bandwidth Memory (HBM) market are SK Hynix, Sams
 The market share of High Bandwidth Memory (HBM) players in 2022 was as follows:
 - SK Hynix: 50%
 - Samsung: 40%
-- Micron: 10% 
+- Micron: 10%
