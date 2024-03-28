@@ -58,4 +58,4 @@ The performance of the Blackwell Architecture surpasses that of the Hopper Archi
 
 
 ## Release date for Blackwell architecture
-The release date for the Blackwell architecture by NVIDIA is expected to be in late 2024 to early 2025, with the codename "Blackwell" and the naming scheme anticipated to be in the RTX 50-series. 
+The release date for the Blackwell architecture by NVIDIA is expected to be in late 2024 to early 2025, with the codename "Blackwell" and the naming scheme anticipated to be in the RTX 50-series.
