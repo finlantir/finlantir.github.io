@@ -2,7 +2,7 @@
 layout: post
 title: IONQ - IonQ Inc
 subtitle: general-purpose trapped ion quantum computer
-tags: [quantum]
+tags: [quantum computing]
 comments: true
 author: finlantir
 categories: [investing]
@@ -17,7 +17,7 @@ IonQ is a quantum computing hardware and software company based in College Park,
 
 
 ## IonQ's current state of development
-IonQ's current state of development showcases significant progress and achievements in the field of quantum computing. As of now, IonQ has successfully achieved its 2024 performance target of #AQ 35 with its flagship quantum computer, IonQ Forte, a year ahead of schedule. This accomplishment demonstrates IonQ's commitment to advancing quantum computing technology and delivering high-performance systems capable of solving complex problems. IonQ's technology is based on a **trapped ion architecture**, offering benefits such as accuracy, scalability, predictability, and coherence time.
+IonQ's current state of development showcases significant progress and achievements in the field of quantum computing. As of now, IonQ has successfully achieved its 2024 performance target of #AQ 35 with its flagship quantum computer, IonQ Forte, a year ahead of schedule. This accomplishment demonstrates IonQ's commitment to advancing quantum computing technology and delivering high-performance systems capable of solving complex problems. IonQ's technology is based on a trapped ion architecture, offering benefits such as accuracy, scalability, predictability, and coherence time.
 Moreover, IonQ has made a critical first step towards developing future quantum networks by achieving ion-photon entanglement, a key technical milestone for networking quantum computers. This achievement highlights IonQ's dedication to advancing the connectivity and capabilities of quantum systems.
 **What is #AQ 35**
 The Algorithmic Qubits (#AQ) metric developed by IonQ is a comprehensive benchmark that assesses a quantum computer's performance against valuable workloads. It summarizes and analyzes multiple quantum algorithms, providing insights into how a system will perform for specific applications. IonQ's #AQ involves running instances of various quantum algorithms on their systems, with successful runs demonstrating the system's capabilities in terms of entangling gates and qubit counts. The #AQ metric is crucial for predicting a quantum computer's performance against intended workloads, allowing users to make informed decisions based on the system's abilities for specific algorithmic classes. Additionally, #AQ represents exponential growth in computational space, where an increase in #AQ signifies a doubling of the system's computational capabilities. IonQ's achievement of surpassing the #AQ 35 benchmark with their flagship quantum computer, IonQ Forte, ahead of schedule showcases their commitment to advancing quantum computing technology and delivering high-performance systems
@@ -35,4 +35,4 @@ Overall, IonQ's focus on trapped ion technology, advanced quantum methods, stron
 
 
 ### Disadvantage of using trapped ions
- Trapped ions offer advantages such as long coherence times and high fidelity operations, but they also present challenges. One key limitation is the need for an ultrahigh-vacuum environment and the technological complexity associated with building scalable quantum processing nodes. This requirement for a controlled environment and intricate control systems can be a drawback when compared to some other qubit modalities that may not have the same level of environmental sensitivity or complexity in their setup. 
+ Trapped ions offer advantages such as long coherence times and high fidelity operations, but they also present challenges. One key limitation is the need for an ultrahigh-vacuum environment and the technological complexity associated with building scalable quantum processing nodes. This requirement for a controlled environment and intricate control systems can be a drawback when compared to some other qubit modalities that may not have the same level of environmental sensitivity or complexity in their setup.
