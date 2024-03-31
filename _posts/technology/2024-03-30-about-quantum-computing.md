@@ -35,4 +35,4 @@ Quantum computing has a wide range of potential applications across various indu
 - Manufacturing: Quantum computing can improve prototyping and testing processes in manufacturing, leading to cost savings and the development of more efficient designs for products like batteries, chips, and vehicles.
 - Drug and Chemical Research: Quantum computing can provide enhanced models for understanding molecular interactions, aiding in drug discovery, chemical research, and the development of new products and medicines.
 - Batteries: Quantum computing can enhance insights into integrating new materials for products like batteries and semiconductors, potentially leading to advancements in energy storage technologies.
-These applications demonstrate the diverse utility of quantum computing across industries, showcasing its potential to revolutionize processes, enhance efficiency, and drive innovation in various sectors. 
+These applications demonstrate the diverse utility of quantum computing across industries, showcasing its potential to revolutionize processes, enhance efficiency, and drive innovation in various sectors.
