@@ -12,6 +12,7 @@ share-img:
 ---
 
 
+
 # Palo Alto Networks
 Palo Alto Networks is an American multinational cybersecurity company founded in 2005 by Nir Zuk. It is headquartered in Santa Clara, California, and is known for its advanced firewalls and cloud-based security offerings. The company provides a range of cybersecurity products, including next-generation firewalls, endpoint protection, and cloud security solutions. Palo Alto Networks serves over 70,000 organizations in more than 150 countries, with key products like Prisma SASE, Prisma Cloud, Cortex XDR, and Cortex XSOAR. The company has a strong focus on Zero Trust security principles and offers threat intelligence through its Unit 42 team. Palo Alto Networks has made significant acquisitions in the cybersecurity space to enhance its portfolio, such as acquiring Crypsis Group, Expanse, Bridgecrew, Cider Security, Talon Cyber Security, and Dig Security. Nikesh Arora serves as the CEO of Palo Alto Networks since June 2018. The company has been recognized for its cybersecurity innovations and leadership in the industry.
 
