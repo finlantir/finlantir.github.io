@@ -67,4 +67,4 @@ The benefits of using Supermicro's storage systems include:
 - Maximum Efficiency: Supermicro's storage solutions offer high capacity 1U-4U form factors with up to 95% efficient Platinum level power supplies, ensuring maximum efficiency in power usage.
 - Maximum Performance and Expandability: These systems support all NVMe storage with hybrid expanders, delivering up to 20 GB/s throughput, providing exceptional performance and scalability.
 - Mission Critical Reliability: Supermicro's storage systems are built for reliability, capable of fully redundant and fault-tolerant operation with features like redundant power supplies, fans, and server boards with remote management capabilities.
-- Proven Compatibility: Deploying Supermicro's storage solutions allows for validated reference architectures that optimize application performance, ensuring compatibility and optimal functionality for various applications. 
+- Proven Compatibility: Deploying Supermicro's storage solutions allows for validated reference architectures that optimize application performance, ensuring compatibility and optimal functionality for various applications.
