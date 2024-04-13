@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SNPS - Synopsys Inc
+title: CDNS - Cadence Design Systems Inc
 subtitle: EDA(electronic design automation) for semiconductor design
 tags: [semiconductor]
 comments: true
@@ -18,7 +18,7 @@ Synopsys Inc. is an American **electronic design automation (EDA)** company head
 In terms of recent developments, in January 2024, Synopsys announced its intention to acquire engineering software company Ansys for $35 billion to expand its presence in simulation software for chip designers. Additionally, in November 2023, Synopsys collaborated with Microsoft to launch Synopsys.ai Copilot, leveraging large language models from OpenAI to accelerate semiconductor chip design processes. Furthermore, in August 2023, Synopsys appointed Sassine Ghazi as CEO, succeeding Aart de Geus who transitioned to the role of executive chairman.
 Synopsys Inc. is a prominent player in the electronic design automation industry with a focus on driving innovation in silicon chip design and verification while emphasizing software security and quality solutions
 **What is EDA?(Electronic Design Automation)**
-Electronic Design Automation (EDA) refers to a category of software tools used for designing electronic systems like integrated circuits and printed circuit boards. These tools work together in a design flow that chip designers utilize to design and analyze entire semiconductor chips, which can contain billions of components. EDA tools are essential for the design of modern semiconductor chips, enabling designers to automate circuit design, placement, and routing processes. EDA has a rich history, evolving from manual layout processes to sophisticated automated tools that enhance chip design complexity, verification, and simulation capabilities. The primary goal of EDA is to assist in the definition, planning, design, implementation, verification, and manufacturing of semiconductor devices or chips
+Electronic Design Automation (EDA) refers to a category of software tools used for designing electronic systems like integrated circuits and printed circuit boards. These tools work together in a design flow that chip designers utilize to design and analyze entire semiconductor chips, which can contain billions of components. EDA tools are essential for the design of modern semiconductor chips, enabling designers to automate circuit design, placement, and routing processes. EDA has a rich history, evolving from manual layout processes to sophisticated automated tools that enhance chip design complexity, verification, and simulation capabilities. The primary goal of EDA is to assist in the definition, planning, design, implementation, verification, and manufacturing of semiconductor devices or chips.
 **The benefits of using EDA in semiconductor design**
 The benefits of using Electronic Design Automation (EDA) in semiconductor design are significant and include:
 1. Efficiency: EDA tools streamline the design process, enabling developers to design, simulate, model, validate, verify, and analyze circuit designs efficiently. This efficiency helps uncover potential problems before production, saving time and resources.
